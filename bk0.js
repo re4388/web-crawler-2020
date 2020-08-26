@@ -3,7 +3,17 @@
 
 /* some selector */
 
+// const selector = `#ItemContainer.value`;
+// const selector = `#button_DBAB06-19009DWZ2 > ul.price_box > li > span`;
 
+
+/* some screenshot */
+// await page.screenshot({ path: `result/${currentTime}.png`});
+
+
+/*  UA setting ref */
+
+// https://medium.com/@filipvitas/how-to-set-user-agent-header-with-puppeteer-js-and-not-fail-28c7a02165da
 
 
 /*  code to enter pc home and type and search */

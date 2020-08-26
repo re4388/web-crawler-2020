@@ -5,7 +5,7 @@
 
 # How to use this
 - Please create a folder called result on the root folder (program won't detect this).
--
+- I use Node with import and export, so to run -> `index.mjs`
 
 # TODO
 - [] test cronjob
