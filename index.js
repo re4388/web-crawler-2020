@@ -6,7 +6,8 @@ const currentTime = moment().format('MMMM_Do_YYYY_h_mm_ss_a');
 var CronJob = require('cron').CronJob;
 
 /* import data, we use different data config here*/
-var data = require('./pchomePage')
+// var data = require('./pchomePage')
+var data = require('./rutenPriceTry')
 // console.log(data);
 
 
